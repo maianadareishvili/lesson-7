@@ -166,13 +166,13 @@ display: flex;
    padding-bottom: 16px;
    font-size: 18px;
    color: #37393F;
-   padding-right: 90px;
+   
 }
 .title2{
     color: #37393F;
     font-size: 40px;
     padding-bottom: 21px;
-   padding-right: 90px;
+   
 }
 .title3{
     color: #37393F;
@@ -189,6 +189,6 @@ display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 47px;
-    margin-right: 50px;
+   
     
 }
