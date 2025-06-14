@@ -142,25 +142,24 @@ display: flex;
     width: 511px;
     height: 270.5px;
     position: absolute;
-    top: 143px;
-    left: 550px;
+   
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     text-align: center;
+    margin: 0 auto;
     
 
 }
 .main-image{
     position: relative;
-    align-items: flex-end;
-    margin-top: 60px;
+   
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    text-align: cente
+    text-align: center;
 }
 .title1{
    padding-bottom: 16px;
